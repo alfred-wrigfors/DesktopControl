@@ -1,0 +1,44 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "b055ebeb-c9ff-4111-89bb-57ab0b4df08d")
+	(paper "A4")
+	(lib_symbols)
+	(hierarchical_label "USB_DN"
+		(shape bidirectional)
+		(at 63.5 133.35 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "181c3d0c-eeba-41e0-a38b-67b13ed422f3")
+	)
+	(hierarchical_label "USB_VBUS"
+		(shape input)
+		(at 115.57 67.31 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "714302be-6d23-4c75-a45f-eb7be6a849b7")
+	)
+	(hierarchical_label "USB_DP"
+		(shape bidirectional)
+		(at 63.5 130.81 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7bb54b0b-f840-4756-bd91-ec15ce61ed44")
+	)
+)

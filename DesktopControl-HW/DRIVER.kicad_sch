@@ -1,0 +1,44 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "e685ee03-c8f8-48c9-a554-e142dfde2413")
+	(paper "A4")
+	(lib_symbols)
+	(hierarchical_label "OUT"
+		(shape output)
+		(at 121.92 53.34 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "13217497-2af1-432d-b865-1eb170bb8d5a")
+	)
+	(hierarchical_label "SUPPLY"
+		(shape input)
+		(at 119.38 69.85 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e0cd38c1-be4f-4658-a5ce-33275b25a1f5")
+	)
+	(hierarchical_label "CONTROL"
+		(shape input)
+		(at 91.44 59.69 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e93123cf-721a-4a79-a470-89b13cc82109")
+	)
+)

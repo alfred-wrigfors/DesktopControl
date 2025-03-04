@@ -1,0 +1,20 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "cffed2ef-a6f1-4137-97ee-554ddbfedd17")
+	(paper "A4")
+	(lib_symbols)
+	(hierarchical_label "TRIANGLE"
+		(shape output)
+		(at 187.96 104.14 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ca430149-88ee-4a36-9c10-9cbf6e80b6d8")
+	)
+)

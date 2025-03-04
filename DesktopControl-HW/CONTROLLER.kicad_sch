@@ -1,0 +1,80 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "68d0638c-8a44-4b10-a9dd-1d02f3376127")
+	(paper "A4")
+	(lib_symbols)
+	(hierarchical_label "DRIVER2"
+		(shape output)
+		(at 120.65 113.03 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "319601a7-b3c2-4d26-b032-1de7215d65e2")
+	)
+	(hierarchical_label "VOLUME_UP"
+		(shape output)
+		(at 119.38 95.25 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4e2b4ae2-3011-446b-a2c8-1ab9d6698e8a")
+	)
+	(hierarchical_label "DRIVER1"
+		(shape output)
+		(at 120.65 110.49 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6768c3b1-4d24-4b89-98e7-064fce421971")
+	)
+	(hierarchical_label "DRIVER3"
+		(shape output)
+		(at 120.65 115.57 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "860818b2-1e72-452e-a17c-4ba1eb198ceb")
+	)
+	(hierarchical_label "VOLUME_DOWN"
+		(shape output)
+		(at 119.38 97.79 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8b99bb1d-42e0-4bf6-8a80-a1c799fb4443")
+	)
+	(hierarchical_label "MUTE"
+		(shape output)
+		(at 119.38 92.71 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cda01c40-2f61-4f91-955b-e612c2df7e8f")
+	)
+)
