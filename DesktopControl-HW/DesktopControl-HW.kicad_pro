@@ -416,7 +416,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "simulation_model_issue": "ignore",
@@ -589,11 +589,7 @@
     ],
     [
       "2e7fa3f3-a840-413e-9472-b60d8eec9937",
-      "AMPLIFIER_L"
-    ],
-    [
-      "c2830189-1384-4a92-a456-273534609d41",
-      "AMPLIFIER_R"
+      "AMPLIFIER"
     ],
     [
       "07023a1c-011d-487f-9eef-c092272fd706",
@@ -608,12 +604,12 @@
       "DRIVER3"
     ],
     [
-      "a3c7ca8d-f817-4b0b-b716-1d2bcff7094b",
-      "TRIANGLE_GEN"
-    ],
-    [
       "7384b715-2d56-4f34-92cf-df80c33fdd5e",
       "POWER"
+    ],
+    [
+      "5c50a79a-23f5-4156-a2d0-bc3060b632cd",
+      "AMPLIFIER_SUB"
     ]
   ],
   "text_variables": {}
